@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eraldoskonja1.
 - 👀 I’m interested in Web developer.
-- 🌱 I’m currently learning React Js.
+- 🌱 With strong knowledge in React Js, NextJs, Laravel, Node Js.
 - 💞️ I’m looking to collaborate on making a new app.
 - 📫 How to reach me ...
 

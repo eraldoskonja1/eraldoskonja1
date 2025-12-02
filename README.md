@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @eraldoskonja1.
-- 👀 I’m interested in Web developer.
+- 👀 I’m Web developer.
 - 🌱 With strong knowledge in React Js, NextJs, Laravel, Node Js.
 
 

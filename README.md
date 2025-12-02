@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @eraldoskonja1.
 - 👀 I’m interested in Web developer.
 - 🌱 With strong knowledge in React Js, NextJs, Laravel, Node Js.
-- 💞️ I’m looking to collaborate on making a new app.
-- 📫 How to reach me ...
+
 
 <!---
 eraldoskonja1/eraldoskonja1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
